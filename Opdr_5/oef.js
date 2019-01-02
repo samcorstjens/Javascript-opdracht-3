@@ -11,6 +11,3 @@ function change(v) {
 		document.getElementById("image5").src="images/image5_2.jpg";
 	}
 }
-function changeReset() {
-
-}
